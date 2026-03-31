@@ -48,7 +48,7 @@ Example: https://yourusername.github.io/
 ## 📫 Contact
 
 * Email: sumitk70350@gmail.com
-* LinkedIn: your-linkedin-profile
+* LinkedIn: https://www.linkedin.com/in/sumit-kumar52/
 * GitHub: https://github.com/SumitKUmar226
 
 ---
